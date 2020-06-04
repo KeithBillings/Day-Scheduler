@@ -29,6 +29,7 @@ textarea{
 }
 
 .currentHour {
+  white-space: pre-wrap;
   background-color: lightgreen;
 }
 
