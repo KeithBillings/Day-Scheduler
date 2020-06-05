@@ -25,6 +25,9 @@ https://keithbillings.github.io/Day-Scheduler/
 
 ## Screenshot
 
+![Screenshot1](./Assets/images/Screenshot1.png)
+![Screenshot2](./Assets/images/Screenshot2.png)
+
 ## Author
 
 Keith Billings
