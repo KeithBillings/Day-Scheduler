@@ -18,3 +18,13 @@ On this assignment I was tasked with making a day planner that would show the cu
 * It would label the local storage name based on the id of the hour block
 * Next I ran a loop that would pull all the data from local storage and populate the text areas with the saved data
 * Debug
+
+## Deployment
+
+https://keithbillings.github.io/Day-Scheduler/
+
+## Screenshot
+
+## Author
+
+Keith Billings
