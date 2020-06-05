@@ -4,6 +4,15 @@
 
 On this assignment I was tasked with making a day planner that would show the current day, show the current hour by color coding sections, let the user input data into each hour block, and then allowing the user to save their input. 
 
+## Deployment
+
+https://keithbillings.github.io/Day-Scheduler/
+
+## Screenshot
+
+![Screenshot1](./Assets/images/Screenshot1.png)
+![Screenshot2](./Assets/images/Screenshot2.png)
+
 ## What I did
 
 * First I hard coded each hour block into the HTML
@@ -18,15 +27,6 @@ On this assignment I was tasked with making a day planner that would show the cu
 * It would label the local storage name based on the id of the hour block
 * Next I ran a loop that would pull all the data from local storage and populate the text areas with the saved data
 * Debug
-
-## Deployment
-
-https://keithbillings.github.io/Day-Scheduler/
-
-## Screenshot
-
-![Screenshot1](./Assets/images/Screenshot1.png)
-![Screenshot2](./Assets/images/Screenshot2.png)
 
 ## Author
 
